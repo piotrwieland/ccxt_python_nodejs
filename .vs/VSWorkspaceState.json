@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\js\\static_dependencies",
+    "\\js\\static_dependencies\\node-rsa\\encryptEngines",
+    "\\js\\test\\base",
+    "\\js\\test\\Exchange"
+  ],
+  "PreviewInSolutionExplorer": false
+}
